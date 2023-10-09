@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Darrius
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Coding
